@@ -1,0 +1,18 @@
+﻿l_japanese:
+  #Journal Entries
+  je_restore_order_korea:0 "朝鮮を我々の元に取り戻す"
+  je_restore_order_korea_reason:0 "我々の朝鮮における支配は朝鮮人の反乱によって失われた。我々の支配を再確立すべき時が来たのだ!"
+   
+  #Decisions
+  restore_order_korea:0 "朝鮮の支配を再確立"
+  restore_order_korea_desc:0 "我々の朝鮮における支配を再確立すべき時が来た。"
+  restore_order_korea_tooltip:0 "Requirements:"
+  dvg_annex_ainu_protectorate: "アイヌを併合する"
+  dvg_annex_ainu_protectorate_desc: "帝国の生命線を堅持するためには、アイヌの自治領を我が国に統合することはもはや避けられない。彼らは一定の権利と特権を得る事になるが、彼らの自治政府は失われる。"
+  dvg_ai_westernize_japan: "I am an AI only decision"
+  dvg_ai_westernize_japan_desc: "Report to divergences devs if you see this, on our discord"
+
+  #Events
+  dvg_manifest_destiny_japan.1.t:0 "日韓合邦"
+  dvg_manifest_destiny_japan.1.d:0 "朝鮮の反乱軍政権はついに鎮圧された。我らの平和的統治は今後も続いていくことだろう。"
+  dvg_manifest_destiny_japan.1.a:0 "御国のために!"
