@@ -1,0 +1,18 @@
+﻿l_japanese:
+ kurdish_uprising:0 "クルド人反乱"
+ syrian_uprising:0 "シリア人反乱"
+ macedonian_uprising:0 "マケドニア人反乱"
+ egyptian_uprising:0 "エジプト人反乱"
+ revolt_of_the_albanian_beys:0 "アルバニア・ベグの反乱"
+ janissary_revolt:0 "イェニチェリ反乱"
+
+ dp_unify_annex_russia:0 "ロシア統一"
+ dp_unify_russia_annex_tooltip:1 "#header Start a $dp_unify_annex_russia$ [concept_diplomatic_play]#!\n$TOOLTIP_DELIMITER$\n$dp_unify_annex_russia_desc$"
+ dp_unify_russia_annex_desc:0 "対象国を併合するための [concept_war_goal] を設定する。"
+ dp_unify_russia:0 "Unify Russia"
+ dp_unify_russia_tooltip:1 "#header Start a $dp_unify_russia$ [concept_diplomatic_play]#!\n$TOOLTIP_DELIMITER$\n$dp_unify_russia_desc$"
+ dp_unify_russia_desc:0 "全てのロシア国家を併合するための [concept_war_goal] を設定する。"
+
+ dp_unify_cossacks:0 "コサック統一"
+ dp_unify_cossacksa_tooltip:1 "#header Start a $dp_unify_cossacks$ [concept_diplomatic_play]#!\n$TOOLTIP_DELIMITER$\n$dp_unify_cossacks_desc$"
+ dp_unify_cossacks_desc:0 "全てのコサック国家を併合するための [concept_war_goal] を設定する。"

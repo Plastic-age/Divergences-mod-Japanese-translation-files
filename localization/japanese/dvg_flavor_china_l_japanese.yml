@@ -1,0 +1,14 @@
+﻿l_japanese:
+ #Journal Entries
+ je_china_reunification:0 "中華再統一"
+ je_china_reunification_reason:0 "中華再統一"
+ 
+ #Events
+ china_reunification.1.t:0 "再統一された中国"
+ china_reunification.1.d:0 "再統一された中国"
+ china_reunification.1.f:0 "再統一された中国"
+ china_reunification.1.a:0 "再統一された中国"
+ china_reunification.2.t:0 "中国統一失敗"
+ china_reunification.2.d:0 "中国統一失敗"
+ china_reunification.2.f:0 "中国統一失敗"
+ china_reunification.2.a:0 "中国統一失敗"

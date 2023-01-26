@@ -1,0 +1,11 @@
+﻿l_english:
+#Journal Entries
+ je_second_revolt_of_bosnian_beys:0 "ボシュニャク・ベグの反乱"
+ je_second_revolt_of_bosnian_beys_reason:0 "ボシュニャク人達の反乱が我が国でのさらなる運動を刺激する前に、我々はボスニアでの反乱を鎮圧せねばならない!"
+ 
+ #Events
+ dvg_illyria.1.t:0 "ボシュニャク・ベグの逃走"
+ dvg_illyria.1.d:0 "バナトのベグは、オスマン帝国の国境を守る上でこの地域が重要である為、長い間権力を握っていた。"
+ dvg_illyria.1.f:0 "グラン・コロンビアの独立はアルカディアとアメリガの両大陸にまで波紋を広げ、その波はついにキトにまで及んだ。"
+ dvg_illyria.1.a:0 "我々はスラブの兄弟たちを歓迎する。"
+ dvg_illyria.1.b:0 "彼らを拒むことはしないが、我々に同化されるべきであることは知っておくべきだ。"

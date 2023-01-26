@@ -1,0 +1,29 @@
+﻿l_japanese:
+ #Journal Entries
+ je_elbian_confederation: "エルベ連邦"
+ je_elbian_confederation_reason: "我々の試みであった神聖ローマ帝国の改革は失敗に終わったかもしれない。しかし、我々とエルベ人の諸侯との特別な関係を利用し、より小さな連合を求めることはまだ可能だ。"
+ elbian_confederation_invalid: "ボヘミアまたはその臣下は、エルベ人の祖国を所有していない。"
+ elbian_confederation_tt: "この国はエルベ連邦として知られるようになる。"
+ je_hre_external: "帝国の国境を一元化する"
+ je_hre_internal: "ボヘミアへの中央集権化?"
+ hre_tt: "この国は神聖ローマ帝国として知られるようになる。"
+ je_hre_external_reason: "神聖ローマ帝国は脆い概念で、その概念を守る事が我々臣民の第一の任務である! 神聖ローマ帝国の統一は容易ではなく、帝国内のすべての領邦を実効支配する必要があるだろう。"
+ je_hre_internal_reason: "神聖ローマ帝国はこれまでに一度も統一されたことがない。その為、どのような激動の時代においても帝国を舵取りする強いリーダーが必要である。そのためには、カイザーへの忠誠篤く、中央集権的な改革が必要である。"
+ #Events
+ elbian_confederation.1.t: "エルベ連邦"
+ elbian_confederation.1.d: "我々は [SCOPE.sCulture('north_german_culture').GetName] との合意に達しました。数世紀に渡る不平等な支配の後、彼らは今、エルベ連邦において我々と対等な地位を占める事になる。"
+ elbian_confederation.1.d2: "ドイツの状況は今や沸点を越えようとしている。 [SCOPE.sCulture('north_german_culture').GetName] の国民に [ROOT.GetCountry.GetAdjectiveNoFormatting] の中で平等な役割を与えなければ、公然と反乱を起こす危険がある。"
+ elbian_confederation.1.f: "" [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] が理性を持ちさえすれば、エルベ連邦が両党に利益をもたらす事を [ROOT.GetCountry.GetRuler.GetSheHe] は理解するだろう。ボヘミアは宮廷での地位に満足したエルベ人貴族達が帝国に忠実に仕える事を確信している。""
+ elbian_confederation.1.a: "エルベ連邦が結成される。"
+ elbian_confederation.1.b: "妥協を受け入れなければならない。"
+ elbian_confederation.1.c: "ボヘミアは永遠にボヘミア人のものであり続ける!"
+
+ von_Schwarzenberg: "フォン・シュヴァルツェンベルク"
+ ideology_kaiserist: "カイゼリスト"
+ ideology_kaiserist_desc: "この人物は神聖ローマ帝国の統一と、カイザーの帝国への帰還を願っている。"
+ #Interest Groups
+ bohemian_aristocracy: "ボヘミア貴族"
+
+ HRE_success_tt: "両方のジャーナルエントリを完了すると、神聖ローマ帝国を形成する能力がアンロックされる。"
+ hre_state_tt: "神聖ローマ帝国の形成可能な全ての州地域を帝国が所有するか、臣民に所有させる。 これは、国の形成可能メニューから確認できる。"
+ hre_variable_tt: "ジャーナルエントリの両方が正常に終了している"

@@ -1,0 +1,11 @@
+﻿l_japanese:
+  ai_strategy_unify_central_russia: "中央ロシアの統一"
+  ai_strategy_unify_central_russia_desc: "[COUNTRY.GetName] は中央ロシアを自分達の旗の下に統一したいと考えている。"
+  ai_strategy_unify_cossacks:0 "コサックの統一"
+  ai_strategy_unify_cossacks_desc:0 "[COUNTRY.GetName] はコサック達を自分達の旗の下に統一したいと考えている。"
+  ai_strategy_unify_tatarstan:0 "タタールスタンの統一"
+  ai_strategy_unify_tatarstan_desc:0 "[COUNTRY.GetName] はタタールスタンを自分達の旗の下に統一したいと考えている。"
+  ai_strategy_unify_arcadia:0 "アルカディアの統一"
+  ai_strategy_unify_arcadia_desc:0 "[COUNTRY.GetName] はアルカディアを自分達の旗の下に統一したいと考えている。"
+  ai_strategy_unify_ari:0 "アラゴンとイタリアの統合"
+  ai_strategy_unify_ari_desc:0 "[COUNTRY.GetName] はアラゴンとイタリアの二つの国家を自分達の旗の下に統一したいと考えている。"

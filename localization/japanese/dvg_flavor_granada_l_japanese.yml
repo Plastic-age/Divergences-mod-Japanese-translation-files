@@ -1,0 +1,19 @@
+﻿l_japanese:
+#Journal Entries
+ je_caladeran_war_of_independence_granada:0 "カラデラン反乱"
+ je_caladeran_war_of_independence_granada_reason:0 "カラデラン反乱は鎮圧されなければならない!"
+
+ #Events
+ dvg_granada.1.t:0 "カラデラン反乱!"
+ dvg_granada.1.d:0 "反逆!"
+ dvg_granada.1.f:0 "グラン・コロンビアの独立はアルカディアとアメリガ両大陸に波紋を広げ、その独立の波はついにヌエバ・トレドにまで及んだ。彼らはスペインの王冠を捨て去り、代わりに独立を求めている。"
+ dvg_granada.1.a:0 "¡Viva España!"
+ dvg_granada.2.t:0 "戦災!"
+ dvg_granada.2.d:0 "戦争は終わった。"
+ dvg_granada.2.f:0 "ヌエバ・トレドが勝利した!ヌエバ・グラナダの荒れ果てた農村と都市でスペイン軍は敗走し続け、スペインの支配はほとんど及んでいない。我々の世論ではグラナダ全土の独立を望む声が多く見られる。"
+ dvg_granada.2.a:0 "我らも自主独立するべきだ!"
+ dvg_granada.2.b:0 "独立する代わりに、スペインに対し自治権の拡大を主張する必要がある。"
+ dvg_granada.3.t:0 "反乱の終焉!"
+ dvg_granada.3.d:0 "我々は勝利した!"
+ dvg_granada.3.f:0 "反乱は失敗した!ヌエバ・トレドの荒廃した農村や都市において、スペインの力がこれまで以上に発揮された事は無かった。反乱を抑えた忠実な臣民である我々に対し、スペイン人は我々に自治権を下賜してくれた。"
+ dvg_granada.3.a:0 "この機会により自由を主張すべきだろう。"
