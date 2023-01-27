@@ -7,8 +7,8 @@
   restore_order_korea:0 "朝鮮の支配を再確立"
   restore_order_korea_desc:0 "我々の朝鮮における支配を再確立すべき時が来た。"
   restore_order_korea_tooltip:0 "Requirements:"
-  dvg_annex_ainu_protectorate: "アイヌを併合する"
-  dvg_annex_ainu_protectorate_desc: "帝国の生命線を堅持するためには、アイヌの自治領を我が国に統合することはもはや避けられない。彼らは一定の権利と特権を得る事になるが、彼らの自治政府は失われる。"
+  dvg_annex_ainu_protectorate: "アイヌモシリの併合"
+  dvg_annex_ainu_protectorate_desc: "帝国の生命線を堅持するためには、アイヌの自治領を我が国に統合することはもはや避けられない。アイヌ人は我が国で一定の権利と保護を得る事になるが、彼らの自治政府は失われる。"
   dvg_ai_westernize_japan: "I am an AI only decision"
   dvg_ai_westernize_japan_desc: "Report to divergences devs if you see this, on our discord"
 

@@ -1,0 +1,32 @@
+﻿l_japanese:
+ #Journal Entries
+ je_manifest_destiny_qingqiu: "東部の国境"
+ je_manifest_destiny_qingqiu_reason: "山脈を超えて領土を切り拓く事は、我々に課された使命だ。"
+ je_manifest_destiny_plantagenia: "南部の運命"
+ je_manifest_destiny_plantagenia_reason: "我々の偉大なる国家は、この大陸全体を切り拓く使命を抱いている。"
+ je_manifest_destiny_vinland: "西部に目を向ける"
+ je_manifest_destiny_vinland_reason: "我々の偉大なる国家は、この大陸全体を切り拓く使命を抱いている。"
+ je_manifest_destiny_rohnnst: "ローンストを獲得する"
+ je_manifest_destiny_rohnnst_reason: "我々の偉大なる国家は、この大陸全体を切り拓く使命を抱いている。"
+ 
+ #Decisions
+ manifest_destiny_qingqiu: "東部の国境"
+ manifest_destiny_qingqiu_desc: "我々の偉大なる国家は、この大陸全体を切り拓く使命を抱いている。"
+ manifest_destiny_plantagenia: "南部の運命"
+ manifest_destiny_plantagenia_desc: "我々の偉大なる国家は、この大陸全体を切り拓く使命を抱いている。"
+ manifest_destiny_vinland: "西部に目を向ける"
+ manifest_destiny_vinland_desc: "我々の偉大なる国家は、この大陸全体を切り拓く使命を抱いている。"
+ 
+ #Events
+ dvg_manifest_destiny.1.t: "東部の国境"
+ dvg_manifest_destiny.1.d: "我々は東部の山岳地帯を安定させた。"
+ dvg_manifest_destiny.1.f: ""
+ dvg_manifest_destiny.2.t: "南部の運命"
+ dvg_manifest_destiny.2.d: "我々は南部の平原地帯を鎮定した。"
+ dvg_manifest_destiny.2.f: ""
+ dvg_manifest_destiny.3.t: "西部に目を向ける"
+ dvg_manifest_destiny.3.d: "我々は西部を安定させた。"
+ dvg_manifest_destiny.3.f: ""
+ dvg_manifest_destiny.4.t: "ローンストを獲得する"
+ dvg_manifest_destiny.4.d: "我々はローンストを併合した。"
+ dvg_manifest_destiny.4.f: ""
